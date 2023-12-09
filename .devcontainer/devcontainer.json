@@ -22,7 +22,8 @@
 				"ms-python.python",
 				"mhutchie.git-graph",
 				"ms-python.vscode-pylance",
-				"cweijan.vscode-mysql-client2"
+				"cweijan.vscode-mysql-client2",
+				"batisteo.vscode-django"
 			]
 		}
 	}
