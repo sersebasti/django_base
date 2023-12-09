@@ -1,0 +1,5 @@
+Configurazione base per progetto Django che si chiama "credentials" 
+
+- cambiare nome nel servizio devcontainer.json 
+
+- eventualmente aggiungere mysql e phpmyadmin
