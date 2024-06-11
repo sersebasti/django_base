@@ -28,3 +28,6 @@ pipeline {
         */
     }
 }
+node{
+    //grovy script
+}
