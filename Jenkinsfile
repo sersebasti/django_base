@@ -9,7 +9,7 @@ pipeline {
                 // sh 'mvn clean package'
             }
         }
-        /*
+        
         stage('Test') {
             steps {
                 echo 'Testing...'
@@ -25,9 +25,11 @@ pipeline {
                 // sh 'scp target/my-app.war user@server:/path/to/deploy'
             }
         }
-        */
+        
     }
 }
+/*
 node{
     //grovy script
 }
+*/
